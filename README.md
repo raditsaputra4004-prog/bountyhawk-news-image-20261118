@@ -1,7 +1,11 @@
 # Wednesday 18 November 2026 — the world in one image
 
-Entry for make.fun `news-image-20261118`: one 1024×1024 image summing up
-the world's news of Wednesday 18 November 2026.
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/raditsaputra4004-prog/bountyhawk-news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/raditsaputra4004-prog/bountyhawk-news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+Entry for make.fun [`news-image-20261118`](https://make.fun/bounty/news-image-20261118): one 1024×1024 image summing up
+the world's news of Wednesday 18 November 2026. Referral code `2yq7mcmp` — https://make.fun/r/2yq7mcmp
 
 ## What the image shows
 
